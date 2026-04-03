@@ -1,5 +1,5 @@
 # Computational-Economics-Projects-
-ECON 380 is an economics class at Case Western Reserve University focsuing on Computational Economics. Collection of projects applying numerical methods, simulation, and agent-based modeling to economic and social science problems. Covers market dynamics, epidemic modeling, optimization, and growth theory using Python.
+ECON 380 is an economics class at Case Western Reserve University focusing on Computational Economics. Collection of projects applying numerical methods, simulation, and agent-based modeling to economic and social science problems. Covers market dynamics, epidemic modeling, optimization, and growth theory using Python.
 
 Project 2: Implements the Gale-Shapley algorithm to solve the stable matching problem. Simulates matching between two groups (e.g., men and women) based on preference rankings and produces a stable outcome with no blocking pairs.
 
